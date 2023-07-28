@@ -2326,3 +2326,15 @@ section {
   font-size:16px !important;
   font-weight: 700;
 }
+
+
+#main .features  img{
+  margin-top: 36px;
+}
+
+/* ideasoft section */
+#ideasoft img {
+  border-radius: 12px;
+  box-shadow: 0 5px 26px 0 rgba(68, 88, 144, 0.14);
+}
+/* ideasoft section end*/
